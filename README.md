@@ -1,4 +1,4 @@
-# README for webflyx repo usinged in boot.dev lessons on git & GitHub etc.
+# README for webflyx repo used in boot.dev lessons on git & GitHub etc.
 #
 # God bless
 # Daniel S Cochran
